@@ -1,1 +1,1 @@
-# Image-Segmentation-using-fuzzy-c-means-clustering-U-Net.
+# Image-Segmentation-using-fuzzy-c-means-clustering.
